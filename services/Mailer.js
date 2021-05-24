@@ -7,7 +7,7 @@ class Mailer extends helper.Mail {
     super();
 
     this.sgApi = sendgrid(keys.sendGridKey); // creates and instance and returns object we can use to communicate with the sendgrid v3 Web Api.
-    this.from_email = new helper.Email("jgamboa929@gmail.com"); // returns {email:"your@email.com"}
+    this.from_email = new helper.Email(`${keys.sendGridFromEmail}`); // returns {email:"your@email.com"}
     this.subject = subject;
     this.body = new helper.Content("text/html", content); // returns {type:"text/html", value: "<div>Content Example</div>"}
     this.recipients = this.formatAddresses(recipients);
