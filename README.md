@@ -2,7 +2,7 @@
 
 Use the Emaileaf app to create your own survey and collect feedback from your clients.
 
-## MJ-Burgers Site (Click on .gif to access site)
+## Emaileaf (Click on .gif to access site)
 
 <a href="https://hidden-peak-74217.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/43181662/119440567-28ee3100-bcea-11eb-80f8-4b0acfdf32bc.gif" title="Emaileaf"/></a>
 
