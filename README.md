@@ -4,9 +4,9 @@ Use the Emaileaf app to create your own survey and collect feedback from your cl
 
 ## Emaileaf (Click on .gif to access site)
 
-<a href="https://hidden-peak-74217.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/43181662/119440567-28ee3100-bcea-11eb-80f8-4b0acfdf32bc.gif" title="Emaileaf"/></a>
+<a href="https://hidden-peak-74217.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/43181662/119442804-1b3aaa80-bcee-11eb-96a3-b50f8efb7880.gif" title="Emaileaf"/></a>
 
-###### Features
+## Features
 
 Log in to https://hidden-peak-74217.herokuapp.com/
 
@@ -22,7 +22,7 @@ Log in to https://hidden-peak-74217.herokuapp.com/
 
 4 Display survey list
 
-###### Technologies
+## Technologies
 
 :coffee: **_React_**
 
@@ -32,7 +32,7 @@ Log in to https://hidden-peak-74217.herokuapp.com/
 
 :coffee: **_MongoDB_**
 
-###### Services
+## Services
 
 :coffee: **_Google OAuth_**
 
